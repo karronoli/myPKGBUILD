@@ -1,0 +1,18 @@
+[submodule "vim-vimshell"]
+	path = vim-vimshell
+	url = https://gist.github.com/b2bbe6bb3b1d65172164.git
+[submodule "softethervpn-client"]
+	path = softethervpn-client
+	url = https://gist.github.com/3bc682087a783911c744.git
+[submodule "perl-carton"]
+	path = perl-carton
+	url = https://gist.github.com/cb7650075f1fe93dc5ce.git
+[submodule "mikutter"]
+	path = mikutter
+	url = https://gist.github.com/ef7226dd6a3746629556.git
+[submodule "ttf-tanukimagic"]
+	path = ttf-tanukimagic
+	url = https://gist.github.com/78d6851c8f531d3d75c7.git
+[submodule "ttf-aoyagireisyosimo"]
+	path = ttf-aoyagireisyosimo
+	url = https://gist.github.com/77fd4ba61148d38d0032.git
